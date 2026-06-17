@@ -60,7 +60,7 @@ Ensure you have the Flutter SDK installed on your machine. If not, follow the of
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tausifkhan89/Product-Manager
    ```
 2. **Navigate to the project directory:**
    ```bash
